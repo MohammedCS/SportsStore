@@ -112,7 +112,7 @@ ipch/
 
 SportsStore/.vscode/launch.json
 SportsStore/.vscode/tasks.json
-SportsStore/.config
+SportsStore/.config/*
 
 # Visual Studio profiler
 *.psess
