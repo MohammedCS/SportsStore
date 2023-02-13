@@ -112,6 +112,7 @@ ipch/
 
 SportsStore/.vscode/launch.json
 SportsStore/.vscode/tasks.json
+SportsStore/.config
 
 # Visual Studio profiler
 *.psess
@@ -378,6 +379,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
+./.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
